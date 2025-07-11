@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+
+# Data
+data/MNIST/
+*.npz
+*.npy
+*.pth
+*.cnf
+
+# Results
+garbage_samples/
+results/
+checkpoints/

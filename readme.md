@@ -40,7 +40,7 @@ pip install virtualenv
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone [https://github.com/udaydarade/adversial_image_detection.git]
 cd adversarial-data-detection
 ```
 
